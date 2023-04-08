@@ -301,9 +301,26 @@ What ? => Block of code to perform perticular Task.
 
 How to Create Function ? 
 
-function    
+function 
+syntax
+function functionName() {
+	//code
+}
 
------------------------------------------------------------
+Example:
+
+* Average to value
+
+function average(X,Y){
+	return (X+y)/2;
+}
+a=2
+b=2
+console.log(average(a,b));
+
+output:
+2
+----------------------------------------------------------
 Destructuring Concept : 
 -----------------------
 - The destructuring assignment syntax is a JavaScript expression that makes it possible to unpack values 
