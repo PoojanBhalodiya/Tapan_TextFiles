@@ -301,7 +301,7 @@ What ? => Block of code to perform perticular Task.
 
 How to Create Function ? 
 
-function 
+function    
 
 -----------------------------------------------------------
 Destructuring Concept : 
